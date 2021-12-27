@@ -1,0 +1,4 @@
+total 8
+drwxr-xr-x 2 jupyter-21013365@st.phenik-023b7 jupyter-21013365@st.phenik-023b7 4096 Thg 12 27 13:49 a
+-rw-r--r-- 1 jupyter-21013365@st.phenik-023b7 jupyter-21013365@st.phenik-023b7    0 Thg 12 27 13:49 a.txt
+-rw-r--r-- 1 jupyter-21013365@st.phenik-023b7 jupyter-21013365@st.phenik-023b7   49 Thg 12 27 13:49 dang_phuc_tri.csv
